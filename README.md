@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 😎 I am Joseph.<br>🏠 I live in Abuja, Nigeria.<br>👨‍💻 I’m currently working with HTML, CSS, Javascript, and React Js, TypeScript.<br>👌 I am very friendly and accommodating<br><br>  
 
 <p align="center">
