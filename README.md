@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=28&duration=6500&color=0B3B8E&center=true&vCenter=true&width=450&lines=Frontend+Developer...+;Building!+Learning!+%F0%9F%92%A1">
 </p>   
-     
+      
    
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/williams.joseph.56863) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/therealjoseph001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-williams-1a7533243) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TheRealJoseph01) 
