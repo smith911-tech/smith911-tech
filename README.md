@@ -3,7 +3,7 @@
 😎 I am Joseph.<br>👨‍💻 I’m currently working with HTML, CSS, Javascript, and React Js, TypeScript, Tailwind<br>👌 I am currently reading JavaScript, React Js, typescript docs<br>💻 I am also currently Building Friend Verse (Personal Project)<br><br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=28&duration=6500&color=0B3B8E&center=true&vCenter=true&width=450&lines=Frontend+Developer...+;Building!+Learning!+%F0%9F%92%A1">   
+  <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=28&duration=6500&color=0B3B8E&center=true&vCenter=true&width=450&lines=Web+Developer...+;Building!+Learning!+%F0%9F%92%A1">   
 </p>     
 
 
@@ -15,8 +15,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=smith911-tech&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=smith911-tech&theme=chartreuse-dark&hide_border=true)<br/>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=smith911-tech&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=smith911-tech&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
