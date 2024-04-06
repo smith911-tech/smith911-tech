@@ -1,9 +1,9 @@
 
 # 💫 About Me:
-😎 I am Joseph.<br>👨‍💻 I’m currently working with HTML, CSS, Javascript, and React Js, TypeScript, Tailwind<br>👌 I am currently reading JavaScript, React Js, typescript docs<br>💻 I am also currently Building Writecap and learning PHP<br><br>
+😎 I am Joseph.<br>👨‍💻 I’m currently learning laravel<br>💻 I am the co-founder of writecap<br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=28&duration=6500&color=fff&center=true&vCenter=true&width=450&lines=Web+Developer...+;Building!+Learning!+%F0%9F%92%A1">   
+  <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=28&duration=6500&color=fff&center=true&vCenter=true&width=450&lines=An+Indie+hacker...+;Building!+Learning!+%F0%9F%92%A1">   
 </p>     
 
 
