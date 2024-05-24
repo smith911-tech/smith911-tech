@@ -51,7 +51,7 @@
 ###
 
 <div align="center">
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ukkhyfx24xiytcj6irswmykbxi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+  <img src="[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ukkhyfx24xiytcj6irswmykbxi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)" alt="spotify"/>
 </div>
 
 ###
