@@ -48,11 +48,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=smith911-tech&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ukkhyfx24xiytcj6irswmykbxi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile" alt="spotify"/>
-</div>
 
 ###
 
