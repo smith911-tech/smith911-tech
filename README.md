@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
 </div>
 
-###
+### 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joseph-williams-1a7533243/" target="_blank">
