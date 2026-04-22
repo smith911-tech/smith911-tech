@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/smith911-tech/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/therealjoseph01/count.svg?"  />
 </div>
 
 ###
@@ -41,16 +41,16 @@
 ###
 
 <div align="center">
-   <img src="https://github-profile-trophy.vercel.app?username=smith911-tech&theme=dracula&column=5&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://streak-stats.demolab.com?user=smith911-tech&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smith911-tech&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="180" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=smith911-tech&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smith911-tech&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+   <img src="https://github-profile-trophy.vercel.app?username=therealjoseph01&theme=dracula&column=5&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=therealjoseph01&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=therealjoseph01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=therealjoseph01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=therealjoseph01&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 
 ###
 
-<img src="https://raw.githubusercontent.com/smith911-tech/smith911-tech/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/therealjoseph01/therealjoseph01/output/snake.svg" alt="Snake animation" />
 
 ###
